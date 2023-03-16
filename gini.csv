@@ -1,0 +1,16 @@
+country,year,gender,age,gini_coefficient
+DKK,2005,Female,25-55,0.25056909
+FRA,2005,Female,25-55,0.3171238
+GER,2005,Female,25-55,0.39556095
+ITA,2005,Female,25-55,0.35599563
+ESP,2005,Female,25-55,0.38755905
+SWE,2005,Female,25-55,0.29265904
+,,,,
+,,,,
+country,year,gender,age,gini_coefficient
+DKK,2015,Female,25-55,0.27157364
+FRA,2015,Female,25-55,0.32141528
+GER,2015,Female,25-55,0.39159536
+ITA,2015,Female,25-55,0.38008001
+ESP,2015,Female,25-55,0.40064152
+SWE,2015,Female,25-55,0.28926536
